@@ -5,7 +5,7 @@ while not success:
   try_again()
 ```
 ---
-💬 repeating code is a cardinal sin (c)
+💬 repeating code is a cardinal sin (c) [Jarrett}(https://github.com/JarrettBillingsley)
 <!--
 **anastasia-sosnovskikh/anastasia-sosnovskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
