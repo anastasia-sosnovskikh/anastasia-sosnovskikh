@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Be Kind 🌱✨�
 
 ```python
 while not success:
