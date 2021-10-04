@@ -2,7 +2,7 @@
 
 ```python
 while not success:
-  try()
+  try_again()
 ```
 
 <!--
