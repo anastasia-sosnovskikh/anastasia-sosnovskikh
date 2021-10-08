@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 
 [HackerRank](https://www.hackerrank.com/asosnovskikh)
+[LinkedIn](https://www.linkedin.com/in/anastasia-sosnovskikh/)
