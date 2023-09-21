@@ -1,4 +1,4 @@
-<!-- ### What do you create? 🌱✨ -->
+<!-- ### What do you create? 🌱✨ 
 
 ```python
 while not success:
@@ -6,7 +6,7 @@ while not success:
 ```
 
 💬 repeating code is a cardinal sin (c) insights from the compilers' class
-<!--
+
 **anastasia-sosnovskikh/anastasia-sosnovskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
