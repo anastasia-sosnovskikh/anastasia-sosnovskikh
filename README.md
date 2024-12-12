@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-sosnovskikh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anastasia-sosnovskikh/)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/asosnovskikh) 
+
 -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-sosnovskikh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!--[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anastasia-sosnovskikh/)-->
-<!-- [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/asosnovskikh) -->
